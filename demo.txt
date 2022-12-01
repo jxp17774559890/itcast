@@ -1,1 +1,7 @@
-hello word！
+public class Demo {
+public static viod show{
+	for (i = 0 , i<10,i++){
+print(i)
+		}
+	}
+}
